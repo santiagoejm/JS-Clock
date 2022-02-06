@@ -1,6 +1,6 @@
 # JS Clock
 
-Welcome to this Project!! This project, is a simple digital clock, that allows you to current date and time in a 24hrs format. It's functionality is developed with plain **Vanilla JavaScript**, using _arrow functions_ to control its functionality.
+Welcome to this Project!! This project, is a simple digital clock, that allows you to see the current date and time in a 24hrs format. It's functionality is developed with plain **Vanilla JavaScript**, using _arrow functions_ to control its functionality.
 
 The _Styling_ was developed with **CSS**, and it's inspired in a futuristic wall clock. hopefully you will notice the different textures printed in the design.
 
